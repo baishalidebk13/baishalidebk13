@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Competitive Programming, DSA and Machine Learning.**
 
-- 📫 How to reach me **dsundorom@gmail.com**
+- 📫 How to reach me **baishalidebk11@gmail.com**
 
 - ⚡ Fun fact **I am a competitive programmer (LeetCode 1845+) who trains models by breaking them**
 

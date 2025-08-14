@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baishali Deb Kanunjna</h1>
+<h1 align="center">Hello 👋, I'm Baishali Deb Kanunjna</h1>
 <h3 align="center">A Competitive programmer and a software developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif">
@@ -16,15 +16,9 @@
 - 📫 How to reach me **baishalidebk11@gmail.com**
 
 - ⚡ Fun fact **I am a competitive programmer (LeetCode 1845+) who trains models by breaking them**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://linkedin.com/in/baishali-deb-kanunjna-658bba21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/baishali-deb-kanunjna-658bba21a" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@baishalidebk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@baishalidebk11" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/baishalidebk_1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="baishalidebk_1312" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/baishalidebk1312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baishalidebk1312" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/baishalijgb3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/baishalijgb3/" height="30" width="40" /></a>
